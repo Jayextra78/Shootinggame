@@ -130,7 +130,7 @@
             "Key": "41e6c385-1a0f-414a-841a-9ecd72cb2512",
             "Value": {
                 "id": "d7d97229-fb80-4c71-81f4-8dc12973422a",
-                "resourcePath": "rooms\\rm_game1\\rm_game1.yy",
+                "resourcePath": "rooms\\rm_game11\\rm_game11.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -186,7 +186,7 @@
             "Key": "585e4866-0ee5-4804-a92b-6d9269695d8f",
             "Value": {
                 "id": "83e724fc-a72f-4361-9f99-fca092023a68",
-                "resourcePath": "rooms\\rm_game11\\rm_game11.yy",
+                "resourcePath": "rooms\\rm_game1\\rm_game1.yy",
                 "resourceType": "GMRoom"
             }
         },
